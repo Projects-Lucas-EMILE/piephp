@@ -1,6 +1,6 @@
 # <img src="./webroot/assets/pie.png" style="width: 60px; height: 60px"> piephp
 
-Projet d'une semaine consite en à recréer des éléments de CakePHP de manière à comprendre comment fonctionne un framework php.
+Projet qui consite en à recréer des éléments de CakePHP de manière à comprendre comment fonctionne un framework php.
 
 ## Table des matières
 
