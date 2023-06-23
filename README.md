@@ -7,7 +7,6 @@ Projet d'une semaine consite en à recréer des éléments de CakePHP de manièr
 - [Aperçu](#aperçu)
 - [Fonctionnalités](#fonctionnalités)
 - [Installation](#installation)
-- [Utilisation](#utilisation)
 
 ## Aperçu
 
