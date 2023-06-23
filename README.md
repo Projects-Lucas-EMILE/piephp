@@ -25,10 +25,3 @@ Pour installer et utiliser piephp :
 
 1. Clonez ce dépôt : `git clone git@github.com:Projects-Lucas-EMILE/piephp.git`
 2. Naviguez vers le répertoire du projet : `cd piephp`
-
-## Utilisation
-
-Fournissez des instructions détaillées sur la manière d'utiliser le projet une fois qu'il est installé. Vous pouvez inclure des exemples de code ou des captures d'écran pour guider l'utilisateur. Par exemple :
-
-```bash
-$ npm start
